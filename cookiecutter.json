@@ -1,5 +1,6 @@
 {
     "project_name": "pyapp",
+    "project_description": "Just another Python package.",
     "author_name": "",
     "author_email": "",
     "project_version": "1.0.0"
