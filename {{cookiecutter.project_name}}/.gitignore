@@ -1,0 +1,12 @@
+*.iml
+*.log
+*.pyc
+*.pyo
+#*#
+*~
+*___jb_old___
+*___jb_tmp___
+*.egg-info/
+.eggs/
+.idea/
+.tox/
